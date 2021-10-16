@@ -9,7 +9,7 @@ Linear search is the simplest search algorithm and often called sequential searc
 Linear search is mostly used to search an unordered list in which the items are not sorted. The algorithm of linear search is given as follows.
 
 
-Complexity	Best Case	Average Case	Worst Case
+Complexity	Best Case	Average Case	Worst Case,
 Time	       O(1)	    O(n)	             O(n)
   
   # Binary Search
