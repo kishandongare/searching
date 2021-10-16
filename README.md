@@ -7,6 +7,8 @@ There are two popular search methods that are widely used in order to search som
 
 Linear search is the simplest search algorithm and often called sequential search. In this type of searching, we simply traverse the list completely and match each element of the list with the item whose location is to be found. If the match found then location of the item is returned otherwise the algorithm return NULL.
 Linear search is mostly used to search an unordered list in which the items are not sorted. The algorithm of linear search is given as follows.
+
+
 Complexity	Best Case	Average Case	Worst Case
 Time	       O(1)	    O(n)	             O(n)
   
